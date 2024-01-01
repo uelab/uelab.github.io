@@ -20,7 +20,7 @@ You and your teammates will give a 15-minute presentation (plus 5 minutes of Q&A
 </ul>
 
 ## Deliverables
-- Sign up for a presentation slot by 1/6/23
+- [Sign up](https://docs.google.com/spreadsheets/d/13Y34iOtsp5GioD4W1nHmT4Uik3fT9n760A-TgrDigZE/edit?usp=drive_link){:target="_blank"} for a presentation slot by 1/6/23
 - Submit your slides by the start of class on the day of your presentation
 - Give your presentation in class
 

@@ -23,7 +23,7 @@ On your own, or in a group of no more than 4 people, you will first identify an 
 - **Choose your group members – 2/3/23**  
   You may work on your final project individually but are strongly encouraged to form a team. Either way, list your group members [here](https://docs.google.com/spreadsheets/d/1GGUffQJNJv68OOlNSEfknHGKY-1ewNKLtLtOhMwA4Q4/edit?usp=sharing){:target="_blank"}. If you would like help finding a group, feel free to reach out to the teaching team!
 - **Choose your technology – 2/10/23**  
-  Update your team's entry on the [final project spreadsheet](https://docs.google.com/spreadsheets/d/1GGUffQJNJv68OOlNSEfknHGKY-1ewNKLtLtOhMwA4Q4/edit?usp=sharing){:target="_blank"}. to include the name of the technology you will be redesigning.
+  Update your team's entry on the [final project presentation sign up spreadsheet](https://docs.google.com/spreadsheets/d/193zSu5iMBlx0KjJVn_p93QHypgaS5bse4EIIaZiY4kI/edit?usp=drive_link){:target="_blank"}. to include the name of the technology you will be redesigning.
 - **Project proposal and testing plans – 2/17/23**  
   Select a product and form a plan for conducting your design process. This plan should include a description of the ways you will solicit user input to guide your redesign. Submit to Canvas as a Word doc or PDF: 1) a short (1-2 paragraph) description of your planned project (accompanying screenshots or other visuals are welcome), 2) a description of your user research plans including a list of the methods you plan to use and why, and 3) your materials to solicit user input (these might include: a list of interview questions, a link to a survey, a description of procedures for an elicitation study, etc).
 - **Draft – 3/3/23**  

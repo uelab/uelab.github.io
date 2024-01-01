@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Assignments
-nav_order: 5
+nav_order: 4
 has_children: true
 description: A week-to-week description of the content covered in the course.
 permalink: assignments
@@ -374,7 +374,11 @@ permalink: assignments
       See <a href="/final-project" target="_blank">this page</a> for full final project details.
     </p>
 
+# Design Pattern Presentation
+In your introductory classes, you delved into the concept of dark patterns in design. Leveraging that knowledge, your task is to identify and analyze real-world examples of these dark patterns. You will showcase your findings in a detailed presentation. For guidance on the presentation format and requirements, please refer to [this page](design-pattern-presentation){:target="_blank"}.
+
 # Final Project
+Your final project is a culmination of the skills and knowledge you've acquired. As laid out below, it consists of several key components, each integral to your overall assessment. To ensure you meet all the criteria and understand the expectations, please see [this page](/final-project){:target="_blank"} for a complete breakdown of the project requirements and submission details.
 - Final project presentation slides
-- Final project report (Submit your final report. See [this page](/final-project){:target="_blank"} for full final project details. There is no mandatory word count, but it is suggested that your report be between 2000-3000 words.)
+- Final project report: There is no mandatory word count, but it is suggested that your report be between 2000-3000 words.
 - Final project peer feedback: Fill out one paper copy of the peer feedback form for EACH team that is presenting on the day you are not presenting (i.e., either 5 or 6 forms). Take one or more photos and upload them on Canvas before handing the feedback form to the presenting team.

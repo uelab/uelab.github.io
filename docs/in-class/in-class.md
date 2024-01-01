@@ -1,7 +1,7 @@
 ---
 layout: default
 title: In Class
-nav_order: 4
+nav_order: 3
 has_children: true
 description: A week-to-week description of the content covered in the course.
 permalink: in-class
@@ -341,3 +341,4 @@ What are the limits of working out your ethical stance from an armchair? What ar
 # Final project
 ### In Class
 - Final project presentations
+- Seminar: Last thoughts [[Slides]](https://drive.google.com/file/d/1oegwhBUIsxSE9R8f4aO4QktoDvVCvj8i/view?usp=drive_link){:target="_blank"}

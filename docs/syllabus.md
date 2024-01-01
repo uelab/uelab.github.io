@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Syllabus
-nav_order: 3
+nav_order: 2
 description: A week-to-week description of the content covered in the course.
 include_toc: true
 permalink: syllabus
@@ -79,16 +79,13 @@ You will identify an existing evil product, conduct a principled design critique
 {: .narrow-table }
 | Group                          | Weight   |
 |:-------------------------------|:---------|
-| Studio Assignments             | 0%       |
 | [Design Technique Presentations](design-pattern-presentation){:target="_blank"} | 12%      |
 | [Final Project](final-project){:target="_blank"} | 12%      |
-| [Reading Responses](reading-responses){:target="_blank"} | 0%       |
-| Miscellaneous                  | 0%       |
-| Studio Preparation Activities  | 0%       |
-| Framework Summaries            | 0%       |
-| In-Class Activities            | 0%       |
+| [Reading Responses](reading-responses){:target="_blank"} | 14%  |
+| Studio Preparation Activities  | 14%       |
+| Framework Summaries            | 14%       |
+| In-Class Activities            | 14%       |
 | [Final Project Report](final-project/#report-rubric){:target="_blank"} | 20%      |
-| Total Course Module Points     | 56%      |
 | **Total**                      | **100%** |
 
 
